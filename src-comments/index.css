@@ -1,0 +1,39 @@
+.reply {
+  margin-top: 0px;
+}
+
+li {
+  transition: .5s;
+  overflow: hidden;
+}
+
+.handle {
+  width: 60px;
+  border: 1px solid #ccc;
+  background: #fff;
+  position: absolute;
+  right: 10px;
+  top: 1px;
+  text-align: center;
+  border-radius: 3px;
+}
+
+/* .handle a {
+  display: block;
+  text-decoration: none;
+} */
+.handle button {
+  width: 60px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  
+}
+
+.list-group-item .centence {
+  padding: 0px 50px;
+}
+
+.user {
+  font-size: 22px;
+}
